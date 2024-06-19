@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc463dd0-f1bd-4b1f-9913-932b4fbbbfc0" name="변경" comment="스프링 MVC 2편 : &#10;프로젝트 설정">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/item-service.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/servlet.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/springmvc.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/thymeleaf-basic.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/java/hello/itemservice/ItemServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/java/hello/itemservice/TestDataInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/java/hello/itemservice/domain/item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/java/hello/itemservice/domain/item/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/java/hello/itemservice/web/form/FormItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/resources/templates/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/resources/templates/form/addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/resources/templates/form/editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/resources/templates/form/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/main/resources/templates/form/items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/test/java/hello/itemservice/ItemServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/test/java/hello/itemservice/domain/item/ItemRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/core">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/form">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/hello-spring">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/item-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/servlet">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/springmvc">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/thymeleaf-basic">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kwonjye&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kwonjye/spring-roadmap.git&quot;,
+    &quot;accountId&quot;: &quot;73dc05e7-d353-4691-a59b-d4ad28960149&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2i63J2HoDujbckzHSbypeTJa8yx" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;U:/spring-roadmap&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="fc463dd0-f1bd-4b1f-9913-932b4fbbbfc0" name="변경" comment="" />
+      <created>1718797123500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718797123500</updated>
+      <workItem from="1718797124572" duration="118000" />
+      <workItem from="1718797424973" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="스프링 MVC 2편 : &#10;프로젝트 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="스프링 MVC 2편 : &#10;프로젝트 설정" />
+  </component>
+</project>

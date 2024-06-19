@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/item-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/item-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-roadmap.iml" filepath="$PROJECT_DIR$/.idea/spring-roadmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thymeleaf-basic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/thymeleaf-basic.main.iml" />
     </modules>
   </component>
 </project>
