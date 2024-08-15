@@ -4,39 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc463dd0-f1bd-4b1f-9913-932b4fbbbfc0" name="변경" comment="스프링 MVC 2편 : &#10;프로젝트 설정">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/item-service.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/servlet.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/springmvc.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/thymeleaf-basic.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/java/hello/itemservice/ItemServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/java/hello/itemservice/TestDataInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/java/hello/itemservice/domain/item/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/java/hello/itemservice/domain/item/ItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/java/hello/itemservice/web/form/FormItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/resources/templates/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/resources/templates/form/addForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/resources/templates/form/editForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/resources/templates/form/item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/main/resources/templates/form/items.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/test/java/hello/itemservice/ItemServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/src/test/java/hello/itemservice/domain/item/ItemRepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="fc463dd0-f1bd-4b1f-9913-932b4fbbbfc0" name="변경" comment="스프링 MVC 2편 : &#10;예외 처리와 오류 페이지 프로젝트 생성">
+      <change afterPath="$PROJECT_DIR$/exception/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/main/java/hello/exception/ExceptionApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/test/java/hello/exception/ExceptionApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,24 +82,24 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;U:/spring-roadmap&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "U:/spring-roadmap/exception",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
       </set>
     </attachedChunks>
   </component>
@@ -134,6 +113,7 @@
       <updated>1718797123500</updated>
       <workItem from="1718797124572" duration="118000" />
       <workItem from="1718797424973" duration="36000" />
+      <workItem from="1723680317991" duration="51000" />
     </task>
     <servers />
   </component>
