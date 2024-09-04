@@ -17,7 +17,7 @@ public class HelloController {
         return "ok";
     }
 
-    @GetMapping("/hello-v2")
+    @GetMapping("/hello-v2") // "10,000"
     public String helloV2(@RequestParam Integer data) {
         System.out.println("data = " + data);
         return "ok";
